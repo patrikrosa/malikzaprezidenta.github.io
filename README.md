@@ -3488,7 +3488,7 @@ setTimeout(()=>{
   const t=document.getElementById('heroTitle'); if(!t)return;
   const fx=new TextScramble(t);
   t.style.backgroundClip='unset'; t.style.webkitBackgroundClip='unset'; t.style.color='white';
-  fx.setText('PhDr. Branislav Malík, CSc.').then(()=>{
+  fx.setText('doc.PhDr. Branislav Malík, CSc.').then(()=>{
     t.innerHTML='PhDr. Branislav<br>Malík, CSc.'; t.style.color=''; t.style.backgroundClip=''; t.style.webkitBackgroundClip='';
   });
 },500);
