@@ -2348,7 +2348,7 @@ body.light .live-toast {
 
   <div class="hero-inner" id="heroParallax">
     <div class="hero-eyebrow">Prezidentská kampaň 2029</div>
-    <h1 id="heroTitle"><span class="wipe-wrap"><span class="wt">doc. PhDr. Branislav<br>Malík, CSc.</span></span></h1>
+    <h1 id="heroTitle"><span class="wipe-wrap"><span class="wt">doc.PhDr. Branislav<br>Malík, CSc.</span></span></h1>
     <p class="hero-sub">Budúcnosť, ktorá má štýl a pevné hodnoty.<br>Slovensko si zaslúži vodcu s <span class="kinetic-wrap" id="kineticWrap"><span class="kinetic-word active" id="kw0">víziou.</span><span class="kinetic-word" id="kw1">odvahou.</span><span class="kinetic-word" id="kw2">múdrosťou.</span><span class="kinetic-word" id="kw3">charakterom.</span><span class="kinetic-word" id="kw4">fúzmi.</span></span></p>
     <div class="hero-ctas">
       <a href="#support" class="btn-primary">
